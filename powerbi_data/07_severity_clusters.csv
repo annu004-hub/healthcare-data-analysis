@@ -1,0 +1,5 @@
+severity,patients,avg_age,avg_los,avg_abnormal,mortality_rate
+CRITICAL,6,59.17,7.83,55.0,83.0
+HIGH,19,59.58,14.47,47.28,11.0
+LOW,19,180.58,7.32,33.18,26.0
+MODERATE,85,70.31,7.89,35.01,33.0

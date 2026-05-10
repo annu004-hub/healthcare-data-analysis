@@ -1,0 +1,4 @@
+admission_type,total,deaths,mortality_pct,avg_los
+EMERGENCY,119,39.0,32.77,9.25
+ELECTIVE,8,0.0,0.0,11.38
+URGENT,2,1.0,50.0,6.5

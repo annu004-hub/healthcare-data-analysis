@@ -1,0 +1,31 @@
+test_name,category,total_tests,abnormal_count,abnormal_pct
+Potassium,Chemistry,1820,231.0,12.69
+Hematocrit,Hematology,1800,1697.0,94.28
+Sodium,Chemistry,1746,385.0,22.05
+Chloride,Chemistry,1723,629.0,36.51
+Bicarbonate,Chemistry,1716,543.0,31.64
+Creatinine,Chemistry,1710,764.0,44.68
+Urea Nitrogen,Chemistry,1704,985.0,57.81
+Glucose,Chemistry,1703,1256.0,73.75
+Anion Gap,Chemistry,1699,128.0,7.53
+Platelet Count,Hematology,1598,718.0,44.93
+Magnesium,Chemistry,1578,227.0,14.39
+Hemoglobin,Hematology,1546,1458.0,94.31
+White Blood Cells,Hematology,1544,665.0,43.07
+RDW,Hematology,1531,1001.0,65.38
+MCV,Hematology,1531,354.0,23.12
+MCH,Hematology,1531,510.0,33.31
+MCHC,Hematology,1531,388.0,25.34
+Red Blood Cells,Hematology,1531,1433.0,93.6
+Phosphate,Chemistry,1439,648.0,45.03
+"Calcium, Total",Chemistry,1429,712.0,49.83
+pH,Blood Gas,1217,451.0,37.06
+SPECIMEN TYPE,BLOOD GAS,1209,0.0,0.0
+PTT,Hematology,1176,672.0,57.14
+pO2,Blood Gas,1154,842.0,72.96
+pCO2,Blood Gas,1154,567.0,49.13
+Base Excess,Blood Gas,1154,0.0,0.0
+Calculated Total CO2,Blood Gas,1154,419.0,36.31
+PT,Hematology,1104,909.0,82.34
+INR(PT),Hematology,1104,618.0,55.98
+Free Calcium,Blood Gas,555,318.0,57.3
