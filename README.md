@@ -33,3 +33,42 @@ Machine Learning + Power BI + Healthcare Data Analytics
 | Confusion Matrix | Model Comparison |
 |---|---|
 | <img src="plots/07_confusion_matrix.png" width="400"> | <img src="plots/07_model_comparison.png" width="400"> |
+# 📊 Power BI Dashboard Preview
+
+## 🏥 Severity Analytics Dashboard
+
+<p align="center">
+  <img src="assets/severity_dashboard.png" width="100%">
+</p>
+
+---
+
+## 🧪 Lab Test Analytics Dashboard
+
+<p align="center">
+  <img src="assets/lab_dashboard.png" width="100%">
+</p>
+
+---
+
+## ⏳ Length of Stay (LOS) Dashboard
+
+<p align="center">
+  <img src="assets/los_dashboard.png" width="100%">
+</p>
+
+---
+
+## ☠️ Mortality Analysis Dashboard
+
+<p align="center">
+  <img src="assets/mortality_dashboard.png" width="100%">
+</p>
+
+---
+
+## 📋 Admission Analytics Dashboard
+
+<p align="center">
+  <img src="assets/admission_dashboard.png" width="100%">
+</p>
