@@ -38,7 +38,7 @@ Machine Learning + Power BI + Healthcare Data Analytics
 ## 🏥 Severity Analytics Dashboard
 
 <p align="center">
-  <img src="assets/severity_dashboard.png" width="100%">
+  <img src="assets/dashboard1.png" width="100%">
 </p>
 
 ---
@@ -46,7 +46,7 @@ Machine Learning + Power BI + Healthcare Data Analytics
 ## 🧪 Lab Test Analytics Dashboard
 
 <p align="center">
-  <img src="assets/lab_dashboard.png" width="100%">
+  <img src="assets/dashboard2.png" width="100%">
 </p>
 
 ---
@@ -54,7 +54,7 @@ Machine Learning + Power BI + Healthcare Data Analytics
 ## ⏳ Length of Stay (LOS) Dashboard
 
 <p align="center">
-  <img src="assets/los_dashboard.png" width="100%">
+  <img src="assets/dashboard3.png" width="100%">
 </p>
 
 ---
@@ -62,7 +62,7 @@ Machine Learning + Power BI + Healthcare Data Analytics
 ## ☠️ Mortality Analysis Dashboard
 
 <p align="center">
-  <img src="assets/mortality_dashboard.png" width="100%">
+  <img src="assets/dashboard4.png" width="100%">
 </p>
 
 ---
@@ -70,5 +70,5 @@ Machine Learning + Power BI + Healthcare Data Analytics
 ## 📋 Admission Analytics Dashboard
 
 <p align="center">
-  <img src="assets/admission_dashboard.png" width="100%">
+  <img src="assets/dashboard5.png" width="100%">
 </p>
