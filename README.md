@@ -16,12 +16,20 @@
 Machine Learning + Power BI + Healthcare Data Analytics
 </p>
 
-## 📊 Dashboard Preview
+## 📊 Project Visualizations
 
-| Dashboard | ROC Curve |
+| Mortality Count | LOS Distribution |
 |---|---|
-| <img src="assets/dashboard.png" width="400"> | <img src="assets/roc_curve.png" width="400"> |
+| <img src="plots/01_mortality_count.png" width="400"> | <img src="plots/02_los_distribution.png" width="400"> |
 
-| Clustering | Feature Importance |
+| Age Distribution | Admission Type |
 |---|---|
-| <img src="assets/clustering.png" width="400"> | <img src="assets/feature_importance.png" width="400"> |
+| <img src="plots/03_age_distribution.png" width="400"> | <img src="plots/04_admission_type.png" width="400"> |
+
+| Abnormal vs Mortality | Insurance Mortality |
+|---|---|
+| <img src="plots/05_abnormal_vs_mortality.png" width="400"> | <img src="plots/06_insurance_mortality.png" width="400"> |
+
+| Confusion Matrix | Model Comparison |
+|---|---|
+| <img src="plots/07_confusion_matrix.png" width="400"> | <img src="plots/07_model_comparison.png" width="400"> |
